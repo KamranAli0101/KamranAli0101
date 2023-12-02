@@ -1,4 +1,4 @@
-👋 Hi, I’m @KamranAli0101;
+👋 Hi, I’m @KamranAli0101
 👀 I’m interested in cybersecurity ...
 ✌ Volunteer HackerOne participate
 🎁 TryHackMe
